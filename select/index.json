@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "名前のない青",
+  "base_artist": "神様、僕は気づいてしまった",
+  "createdAt": "2026-02-20T04:07:46.650190Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "名前のない青",
+      "artist": "神様、僕は気づいてしまった",
+      "has_synced": false,
+      "path": "select/pl_01_名前のない青_神様、僕は気づいてしまった.txt"
+    }
+  ]
+}
